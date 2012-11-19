@@ -1,0 +1,6 @@
+(source "melpa" "http://melpa.milkbox.net/packages/")
+
+(depends-on "ansi")
+(depends-on "ecukes")
+(depends-on "espuds")
+
